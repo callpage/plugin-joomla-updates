@@ -1,12 +1,12 @@
 <updates>
 	<update>
 		<name>Callpage - Callback for Joomla</name>
-		<description>Callpage - Update to version 1.0.1</description>
+		<description>Callpage - Update to version 1.0.0</description>
 		<element>mod_callpage</element>
 		<type>module</type>
-		<version>1.0.1</version>
+		<version>1.0.0</version>
 		<downloads>
-			<downloadurl type="full" format="zip">http://ed550202.ngrok.io/mod_callpage_101.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/callpage/plugin-joomla-updates/raw/master/mod_callpage_100.zip</downloadurl>
 		</downloads>
 		<maintainer>Callpage</maintainer>
 		<maintainerurl>https://callpage.io</maintainerurl>
